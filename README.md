@@ -27,13 +27,7 @@ I love solving real-world problems using data, designing user-centric interfaces
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C++, Java, JavaScript, SQL  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
+**Languages:** Python, C++, Java, JavaScript, SQL 
 **Frameworks & Tools:** TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, OpenCV  
 **Web:** HTML, CSS, React.js, Node.js, Vue.js  
 **Concepts:** Deep Learning, NLP, Neural Networks, Data Structures & Algorithms
