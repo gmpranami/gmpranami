@@ -21,12 +21,16 @@ I love solving real-world problems using data, designing user-centric interfaces
 
 ---
 
+
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C++, Java, JavaScript, SQL 
-**Frameworks & Tools:** TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, OpenCV  
-**Web:** HTML, CSS, React.js, Node.js, Vue.js  
-**Concepts:** Deep Learning, NLP, Neural Networks, Data Structures & Algorithms
+**Languages:** Python, C++, Java, JavaScript, TypeScript, SQL  
+**Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, OpenCV, Matplotlib, Flask, Django, Express.js  
+**Web Technologies:** HTML5, CSS3, React.js, Node.js, Vue.js, REST APIs, AJAX, JSON  
+**Databases:** MySQL, MongoDB, PostgreSQL  
+**Cloud & DevOps:** Google Cloud, Firebase, Docker, GitHub Actions  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, Jupyter Notebook  
+**Concepts:** Deep Learning, NLP, Neural Networks, Data Structures & Algorithms, API Integration, Agile Development
 
 ---
 
@@ -34,9 +38,9 @@ I love solving real-world problems using data, designing user-centric interfaces
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🧠 [Emotion Recognition System](#) | Python, CNN, Flask | Real-time facial expression recognition with a web interface for live video/image inputs. |
-| 📚 [Online Course Portal](#) | HTML, CSS, JS, MySQL | A secure course registration system with user authentication. |
-| 🌿 [Plant Care Guide](#) | Vue.js, Node.js, MongoDB | SPA fetching plant care data via API with scalable backend and dynamic UI. |
+| 🧠 [Emotion Recognition System](#) | Python, TensorFlow, CNN, Flask, OpenCV | Real-time facial expression recognition system with a web interface supporting live video and image inputs. |
+| 🧑‍💼 [Employee Management System](#) | Node.js, Express.js, React.js, MongoDB, JWT, REST APIs | A full-stack platform to manage employee data, roles, payroll, and authentication with a secure backend and responsive frontend. |
+| 🌿 [Plant Care Guide](#) | Vue.js, Node.js, Express.js, MongoDB, REST APIs | A single-page application fetching plant care data from an API, featuring dynamic UI and a scalable backend. |
 
 ---
 
