@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/git_banner.png" alt="Medha Pranami Banner" width="100%" />
+  <img src="assets/git_banner.png" alt="Medha Pranami Banner" width="80%" style="max-height:300px;" />
 </p>
 
 # 👩‍💻 Medha Pranami G
 
 🎓 M.S. Computer Science @ University of New Haven (2023–2025)  
-✉️ [medhapranamig207@gmail.com](mailto:medhapranamig207@gmail.com)  
+✉️ [medhapranami45@gmail.com](mailto:medhapranami45@gmail.com)  
 🌐 [LinkedIn](https://linkedin.com/in/medha-pranami-g) | [Portfolio](#) | [Resume](#)
 
 ---
@@ -15,9 +15,9 @@
 I’m a passionate **Software Engineer** and **Machine Learning Enthusiast** with experience building full-stack web applications and AI-powered solutions.  
 I love solving real-world problems using data, designing user-centric interfaces, and continuously exploring new technologies.
 
-- 🔭 Currently pursuing **M.S. in Computer Science**  
-- 🤖 Interested in **AI/ML**, **Web Development**, and **Backend Engineering**  
-- 🛠️ Open to **internships** and **full-time roles** starting **May 2025**
+- 🎓 Completed **M.S. in Computer Science**  
+- 🤖 Focused on **AI/ML**, **Web Development**, and **Backend Engineering**  
+- 🛠️ Always eager to learn, innovate, and contribute to impactful projects
 
 ---
 
@@ -61,11 +61,8 @@ I love solving real-world problems using data, designing user-centric interfaces
 ---
 
 ### 📊 GitHub Stats
-
-![Medha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmpranami&show_icons=true&theme=radical)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpranami&layout=compact&theme=radical)
-
----
 
 ---
 
