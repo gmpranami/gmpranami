@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/A_digital_graphic_design_banner_features_Medha_Pra.png" alt="Medha Pranami Banner" width="100%" />
+  <img src="assets/git_banner.png" alt="Medha Pranami Banner" width="100%" />
 </p>
 
 # 👩‍💻 Medha Pranami G
