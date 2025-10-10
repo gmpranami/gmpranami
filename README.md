@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/avatars.png" width="150" height="150" style="border-radius:50%; margin-bottom:10px;" />
-</p>
-
-<p align="center">
   <img src="assets/git_banner.png" alt="Medha Pranami Banner" width="100%" />
 </p>
 
