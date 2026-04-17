@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gmpranami/gmpranami/main/assets/git_banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/gmpranami/gmpranami/main/assets/banner.jpg" width="100%" />
 </p>
 
 # 👩‍💻 Medha Pranami G
