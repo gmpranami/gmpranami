@@ -17,20 +17,21 @@ I love solving real-world problems using data, designing user-centric interfaces
 
 - 🎓 Completed **M.S. in Computer Science**  
 - 🤖 Focused on **AI/ML**, **Web Development**, and **Backend Engineering**  
-- 🛠️ Always eager to learn, innovate, and contribute to impactful projects
+- ⚙️ Strong interest in **API development**, **scalable systems**, and **performance optimization**  
+- 📊 Experienced in working with datasets up to **200K+ records**  
+- 🛠️ Always eager to learn, innovate, and contribute to impactful projects  
 
 ---
-
 
 ### 🛠️ Tech Stack
 
 **Languages:** Python, C++, Java, JavaScript, TypeScript, SQL  
-**Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, OpenCV, Matplotlib, Flask, Django, Express.js  
+**Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, OpenCV, Matplotlib, Flask, Django, FastAPI, Express.js  
 **Web Technologies:** HTML5, CSS3, React.js, Node.js, Vue.js, REST APIs, AJAX, JSON  
 **Databases:** MySQL, MongoDB, PostgreSQL  
-**Cloud & DevOps:** Google Cloud, Firebase, Docker, GitHub Actions  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), Google Cloud, Firebase, Docker, GitHub Actions, CI/CD  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Jupyter Notebook  
-**Concepts:** Deep Learning, NLP, Neural Networks, Data Structures & Algorithms, API Integration, Agile Development
+**Concepts:** Deep Learning, NLP, Neural Networks, Data Structures & Algorithms, API Integration, Microservices Architecture, Agile Development  
 
 ---
 
@@ -38,34 +39,24 @@ I love solving real-world problems using data, designing user-centric interfaces
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🧠 [Emotion Recognition System](#) | Python, TensorFlow, CNN, Flask, OpenCV | Real-time facial expression recognition system with a web interface supporting live video and image inputs. |
-| 🧑‍💼 [Employee Management System](#) | Node.js, Express.js, React.js, MongoDB, JWT, REST APIs | A full-stack platform to manage employee data, roles, payroll, and authentication with a secure backend and responsive frontend. |
-| 🌿 [Plant Care Guide](#) | Vue.js, Node.js, Express.js, MongoDB, REST APIs | A single-page application fetching plant care data from an API, featuring dynamic UI and a scalable backend. |
-
----
-
-### 💼 Experience
-
-**Software Intern – v3 Novus** (Aug 2022 – Feb 2023)  
-- Built front-end software for **GPS testing systems** using Python.  
-- Implemented UI designs and features, performed testing & debugging.
-
-**Software Intern – Bharat Electronics Ltd. (BEL)** (Jul 2021 – Sep 2021)  
-- Developed HMI software for a **drone detection & jamming system**.  
-- Focused on user-friendly UI and reliability for **border surveillance** operations.
+| 🧠 [Emotion Recognition System](#) | Python, TensorFlow, CNN, Flask, OpenCV | Real-time facial expression recognition system with a web interface supporting live video and image inputs |
+| 🧑‍💼 [Employee Management System](#) | Node.js, Express.js, React.js, MongoDB, JWT, REST APIs | Full-stack platform to manage employee data, roles, payroll, and authentication with a secure backend |
+| 🌿 [Plant Care Guide](#) | Vue.js, Node.js, Express.js, MongoDB, REST APIs | Single-page application fetching plant care data from an API with a dynamic UI and scalable backend |
 
 ---
 
 ### 🏆 Certifications
 
+- 🟠 AWS Certified Developer – Associate  
 - 🎓 AI for Everyone – DeepLearning.AI  
 - ☁️ Google Cloud Skill Badge – Google Cloud  
-- 🌐 MTA: Introduction to HTML & CSS Programming
+- 🐍 Python Data Structures – University of Michigan  
+- 🌐 MTA: Introduction to HTML & CSS Programming  
 
 ---
 
 ### 📊 GitHub Stats
- 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpranami&layout=compact&theme=radical)
 
 ---
